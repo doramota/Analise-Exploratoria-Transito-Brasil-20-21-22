@@ -1,6 +1,6 @@
 # Análise exploratória dos acidentes de trânsito no Brasil nos anos de 2020, 2021 e 2022
 
-> Esse projeto traz uma análise explioratória sobre os acidentes de trânsito ocorridos na cidade do Recife entre os anos de 2020 a 2022, o qual foi proposta para a segunda avaliação da disciplina de Big Data da Faculdade Senac no período 2023.1.
+> Esse projeto traz uma análise exploratória sobre os acidentes de trânsito ocorridos no Brasil entre os anos de 2020 a 2022, o qual foi proposta para a segunda avaliação da disciplina de Big Data da Faculdade Senac no período 2023.1.
 >
 > Neste projeto, realizamos todo o processo de ELT (*extract, load, and transformation*, ou seja, extração, carga e transformação): desde a extração dos dados nas respectivas fontes de dados, a junção das 3 bases em uma única base, a carga no *Microsoft Powerr BI*, as transformações necessárias nos dados (limpeza, formatação, agragação, etc.) e as respectivas análise e desenvolvimento de gráficos e painéis.
 
